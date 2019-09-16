@@ -1,0 +1,1 @@
+fuzzy-decision-stock-market
